@@ -1,1 +1,1 @@
-# comicsdata
+# oddcomic
