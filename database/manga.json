@@ -1,8 +1,14 @@
 [
   {
-    "name": "action",
-    "path": "action",
-    "cbzFile": "example.cbz",
+    "name": "Fantasy",
+    "path": "Fantasy",
+    "cbzFile": "Academy_s Genius Swordmaster.cbz",
+    "status": "ready"
+  },
+  {
+    "name": "Isekai",
+    "path": "Isekai",
+    "cbzFile": "A Cadet Becomes a Prophet.cbz",
     "status": "ready"
   }
 ]
