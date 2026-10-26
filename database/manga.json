@@ -2,8 +2,8 @@
   {
     "name": "Fantasy",
     "path": "Fantasy",
-    "cbzFile": "Academy_s Genius Swordmaster.cbz",
-    "status": "ready"
+    "cbzFile": null,
+    "status": "error"
   },
   {
     "name": "Isekai",
